@@ -1,3 +1,5 @@
+# It is a projecy practicing using react redux, and you can add a meme using a form and remove meme too.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
